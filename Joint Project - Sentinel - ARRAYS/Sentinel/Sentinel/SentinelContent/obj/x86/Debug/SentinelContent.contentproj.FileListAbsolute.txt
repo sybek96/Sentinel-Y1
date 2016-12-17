@@ -1,0 +1,6 @@
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\SentinelContent\obj\x86\Debug\SentinelContent.contentprojResolveAssemblyReference.cache
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\SentinelContent\obj\x86\Debug\SentinelContent.contentprojResolveAssemblyReference.cache
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\SentinelContent\obj\x86\Debug\SentinelContent.contentprojResolveAssemblyReference.cache
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\SentinelContent\obj\x86\Debug\SentinelContent.contentprojResolveAssemblyReference.cache
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\SentinelContent\obj\x86\Debug\SentinelContent.contentprojResolveAssemblyReference.cache
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\SentinelContent\obj\x86\Debug\SentinelContent.contentprojResolveAssemblyReference.cache

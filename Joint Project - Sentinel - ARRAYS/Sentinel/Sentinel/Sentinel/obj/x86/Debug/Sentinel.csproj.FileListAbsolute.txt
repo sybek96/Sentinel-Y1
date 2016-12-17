@@ -1,0 +1,168 @@
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\CaveBackground.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Sentinel.exe
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Sentinel.pdb
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\obj\x86\Debug\Sentinel.csprojResolveAssemblyReference.cache
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\obj\x86\Debug\Sentinel.exe
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\obj\x86\Debug\Sentinel.pdb
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelDown.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelLeft.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelRight.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelUp.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\Crystal.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugGathererLeft.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugGathererRight.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\CaveBackground.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelDown.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelLeft.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelRight.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelUp.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\Crystal.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugGathererLeft.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugGathererRight.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Sentinel.exe
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Sentinel.pdb
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\obj\x86\Debug\Sentinel.csprojResolveAssemblyReference.cache
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\obj\x86\Debug\Sentinel.exe
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\obj\x86\Debug\Sentinel.pdb
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierDown.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierLeft.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierRight.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierUp.xnb
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\CaveBackground.xnb
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelDown.xnb
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelLeft.xnb
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelRight.xnb
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelUp.xnb
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\Crystal.xnb
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugGathererLeft.xnb
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugGathererRight.xnb
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierDown.xnb
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierLeft.xnb
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierRight.xnb
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierUp.xnb
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Sentinel.exe
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Sentinel.pdb
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\obj\x86\Debug\Sentinel.csprojResolveAssemblyReference.cache
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\obj\x86\Debug\Sentinel.exe
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\obj\x86\Debug\Sentinel.pdb
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletDown.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletLeft.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletRight.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletUp.xnb
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletDown.xnb
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletLeft.xnb
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletRight.xnb
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletUp.xnb
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierDown.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierLeft.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierRight.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierUp.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletDown.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletLeft.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletRight.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletUp.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelTitleScreen.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\GameOverScreen.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\VictoryScreen.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\PlayerHurt.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\Menu.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelTitleScreen.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\GameOverScreen.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\VictoryScreen.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\PlayerHurt.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\Menu.xnb
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelTitleScreen.xnb
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\GameOverScreen.xnb
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\VictoryScreen.xnb
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\PlayerHurt.xnb
+E:\Programming\Joint Project\Joint Project - Sentinel\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\Menu.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\CaveBackground.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelDown.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelLeft.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelRight.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelUp.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\Crystal.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugGathererLeft.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugGathererRight.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierDown.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierLeft.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierRight.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierUp.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletDown.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletLeft.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletRight.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletUp.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelTitleScreen.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\GameOverScreen.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\VictoryScreen.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\PlayerHurt.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\Menu.xnb
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Sentinel.exe
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Sentinel.pdb
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\obj\x86\Debug\Sentinel.csprojResolveAssemblyReference.cache
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\obj\x86\Debug\Sentinel.exe
+F:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\obj\x86\Debug\Sentinel.pdb
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\obj\x86\Debug\Sentinel.csprojResolveAssemblyReference.cache
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\obj\x86\Debug\Sentinel.exe
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\CaveBackground.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelDown.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelLeft.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelRight.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelUp.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\Crystal.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugGathererLeft.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugGathererRight.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierDown.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierLeft.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierRight.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierUp.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletDown.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletLeft.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletRight.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletUp.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelTitleScreen.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\GameOverScreen.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\VictoryScreen.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\PlayerHurt.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\Menu.xnb
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Sentinel.exe
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Sentinel.pdb
+D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\obj\x86\Debug\Sentinel.pdb
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\CaveBackground.xnb
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelDown.xnb
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelLeft.xnb
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelRight.xnb
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelUp.xnb
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\Crystal.xnb
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugGathererLeft.xnb
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugGathererRight.xnb
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierDown.xnb
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierLeft.xnb
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierRight.xnb
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierUp.xnb
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletDown.xnb
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletLeft.xnb
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletRight.xnb
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletUp.xnb
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelTitleScreen.xnb
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\GameOverScreen.xnb
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\VictoryScreen.xnb
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SpriteFont1.xnb
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\PlayerHurt.xnb
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\Menu.xnb
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Sentinel.exe
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Sentinel.pdb
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\obj\x86\Debug\Sentinel.csprojResolveAssemblyReference.cache
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\obj\x86\Debug\Sentinel.exe
+G:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\obj\x86\Debug\Sentinel.pdb

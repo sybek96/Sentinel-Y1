@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>CaveBackground.png</Source>
+      <Name>CaveBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\CaveBackground.xnb</Output>
+      <Time>2016-01-10T14:58:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SentinelDown.png</Source>
+      <Name>SentinelDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelDown.xnb</Output>
+      <Time>2016-01-10T15:13:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SentinelLeft.png</Source>
+      <Name>SentinelLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelLeft.xnb</Output>
+      <Time>2016-01-10T15:13:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SentinelRight.png</Source>
+      <Name>SentinelRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelRight.xnb</Output>
+      <Time>2016-01-10T15:13:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SentinelUp.png</Source>
+      <Name>SentinelUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelUp.xnb</Output>
+      <Time>2016-01-10T15:13:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Crystal.png</Source>
+      <Name>Crystal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\Crystal.xnb</Output>
+      <Time>2016-01-13T09:10:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>KrugGathererLeft.png</Source>
+      <Name>KrugGathererLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugGathererLeft.xnb</Output>
+      <Time>2016-01-13T09:11:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>KrugGathererRight.png</Source>
+      <Name>KrugGathererRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugGathererRight.xnb</Output>
+      <Time>2016-01-13T09:07:34+00:00</Time>
+    </Item>
+    <Item>
+      <Source>KrugSoldierDown.png</Source>
+      <Name>KrugSoldierDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierDown.xnb</Output>
+      <Time>2016-01-13T09:13:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>KrugSoldierLeft.png</Source>
+      <Name>KrugSoldierLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierLeft.xnb</Output>
+      <Time>2016-01-13T09:13:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>KrugSoldierRight.png</Source>
+      <Name>KrugSoldierRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierRight.xnb</Output>
+      <Time>2016-01-13T09:14:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>KrugSoldierUp.png</Source>
+      <Name>KrugSoldierUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\KrugSoldierUp.xnb</Output>
+      <Time>2016-01-13T09:14:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BulletDown.png</Source>
+      <Name>BulletDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletDown.xnb</Output>
+      <Time>2016-01-13T09:08:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BulletLeft.png</Source>
+      <Name>BulletLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletLeft.xnb</Output>
+      <Time>2016-01-13T09:09:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BulletRight.png</Source>
+      <Name>BulletRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletRight.xnb</Output>
+      <Time>2016-01-13T09:09:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BulletUp.png</Source>
+      <Name>BulletUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\BulletUp.xnb</Output>
+      <Time>2016-01-13T09:09:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SentinelTitleScreen.png</Source>
+      <Name>SentinelTitleScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SentinelTitleScreen.xnb</Output>
+      <Time>2016-01-31T14:21:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameOverScreen.png</Source>
+      <Name>GameOverScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\GameOverScreen.xnb</Output>
+      <Time>2016-01-31T14:35:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>VictoryScreen.png</Source>
+      <Name>VictoryScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\VictoryScreen.xnb</Output>
+      <Time>2016-01-31T21:56:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2016-01-29T09:17:30+00:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerHurt.mp3</Source>
+      <Name>PlayerHurt</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\PlayerHurt.xnb</Output>
+      <Time>2016-01-31T22:53:30+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu.mp3</Source>
+      <Name>Menu</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\Menu.xnb</Output>
+      <Time>2016-01-31T23:44:42+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{8C5F6566-F8FD-440B-AF4B-25FEBE3CBBF8}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\SentinelContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Programming\Joint Project\Joint Project - Sentinel - ARRAYS\Sentinel\Sentinel\Sentinel\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-11-16T17:21:43.8150109+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
